@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @palomaaragon
+- 🚀 I'm an aerospace engineer
+- 👩🏻‍💻 I also enjoy coding and I took the Data Science Le Wagon Bootcamp
 - 👀 I’m interested in cinema, art and science
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on LeWagon
 - 📫 How to reach me 
 paloma.ar.tr@gmail.com
 <!---
